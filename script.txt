@@ -1,0 +1,14 @@
+<span id="a">root@keerthivarman_</span>:<span id="b">~</span><span id="c">#</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">root@keerthivarman_</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/>
+
+Hi!, Myself, keerthivarman.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I'm a student, currently studying in SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, CHENNAI. I like to explore Multiple Dimensions of Information Security and to work with Various Technologies in the field.<br>
+I developed a Huge interest, in the field of Cybersecurity in the age of 18 and working hard till now, to contribute something huge in Tech Community.<br>
+My Area of Interest includes: Web Development, OpenSource Intelligence, Web Application and Mobile Application Security, Reverse Engineering and Malware Analysis.<br> 
+I create <a href="https://github.com/keerthivarman-ps?tab=repositories"> Projects </a> occasionally, to test my skills and to enhance them.<br>
+Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
+<span id="a">root@keerthivarman_</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
+Wanna Stay Connected? <br> # <a href="www.linkedin.com/in/keerthi-varman-a9aa64283">Linkedin</a> <br> # <a href="">Instagram</a> <br> # <a href="">Twitter</a><br>
+Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at <!-- longlonglongcomment --><a href="mailto:keerthivarmanps@gmail.com">keerthivarmanps@gmail.com</a><br>
+<span id="h"> Developer in Dusk. Hacker in Dawn. </span><br>
+<span id="a">root@keerthivarman_</span>:<span id="b">~</span><span id="c">#</span> exit</p>
